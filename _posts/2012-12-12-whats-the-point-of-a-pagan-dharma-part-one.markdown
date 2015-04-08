@@ -10,7 +10,7 @@ categories:
 - Pagan Dharma
 ---
 
-[![IMG_0538](http://farm3.staticflickr.com/2666/4238581609_52bb3453f2.jpg)](http://www.flickr.com/photos/albill/4238581609/)
+<p style="text-align:center"><img src="http://farm3.staticflickr.com/2666/4238581609_52bb3453f2.jpg"></p>
 
 
 

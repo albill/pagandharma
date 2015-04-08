@@ -23,7 +23,7 @@ As to the ‘how’, we deem what we are doing as being Zen related. As most rea
 
 In Havamal 138 Odin speaks of “giving Self to Self” during his seeking of Runa on the World Tree. Similarly for the Northern mystic seeking to utilize mindfulness techniques there can be the creation of a space where outdated “certainties” can be shed so that remanifestation can occur. For those seeking the hero’s path this does not mean the abandonment of Self, rather it opens up new vistas of potential becoming.
 
-[![The_Sacrifice_of_Odin65](http://pagandharma.org/wp-content/uploads/2012/12/The_Sacrifice_of_Odin65.jpg)](http://pagandharma.org/2012/12/adventures-in-zen-odinism/the_sacrifice_of_odin65/)
+<p style="text-align:center"><img src="/images/The_Sacrifice_of_Odin65.jpg"></p>
 
 “I know that I hung on a windy tree
 nine long nights,

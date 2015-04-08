@@ -21,8 +21,8 @@ _I wrote this on June 3, 2008, after returning from a visit to Seattle, where I 
 While I was in Seattle this weekend, I saw my friends, Erynn and Aron, on Friday. (Yes, those names sound the name but one is female and one is male…)
 
 
-[![Erynn](http://farm4.static.flickr.com/3128/2544468848_e6c6ba4cea.jpg)](http://www.flickr.com/photos/albill/2544468848/)
-_Erynn_
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/2544468848/"><img src="http://farm4.static.flickr.com/3128/2544468848_e6c6ba4cea.jpg"></a><br>
+<em>Erynn</em> </p>
 
 
 I’ve known Erynn since I was a callow youth (or longer if you think that was last week). She and I met somewhere in 1989 when I lived in Wallingford in Seattle, was going to community college after dropping out of high school, and she worked at a law office in the area. I was a fairly newly proclaimed Neopagan and she had been around the block a few times as a pagan. I assume that we met online on a BBS (Bulletin Board System for you kids) but I don’t actually remember after more than 18 years. Eventually, along with many pagan things that I did, I attended the inaugural session of Erynn’s “Hedge School” where she and her husband attempted to communicate their understanding of an actual Celtic paganism using the traditional vehicles of folklore and poetry (which is also magic, in a general sense). This particular school and its curriculum became, I believe, pretty well known later on in the Celtic Reconstructionist circles and provided inspiration for many things.
@@ -40,8 +40,8 @@ For myself, I grew up Roman Catholic as the child of a convert. The “smells an
 Eventually, I acted on an intellectual fascination that I’d had with Buddhism, took refuge, and it took over more and more of my thoughts and practices over time until I really did not think of myself as a Neopagan or magician anymore. One day, I formalized it for myself. All that being true, if you rub off the Buddhist exterior for the chocolate filling within, you will find a pagan. I grew up Catholic but, at my core, I believe I’m far more of a Neopagan than I was ever a Christian. Seeing my friends reminded me of this, especially in talking to Erynn about her practices and thoughts, approaches to the spiritual path as a householder, and other aspects of her life. I think this gives me a very different approach, at least mentally, to Buddhism as a whole but to esoteric Buddhism (tantric Buddhism) in particular. I’m less interested in the psychological approaches to ritual or Buddhist divinities than most American Buddhists. I’m perfectly happy performing and participating in rituals and trying to understand (or not understand consciously) the experiences as they are. Traveling in Tibetan Buddhist circles, Americans have largely seemed fairly uncomfortable with the reality of these rituals, the empowerments, the visualizations and transmissions, etc. This often leads me to wonder why many of these people are there in Tibetan Vajrayana and not, say, Zen or some other form of practice.
 
 
-[![DSCF1540.JPG](http://farm3.static.flickr.com/2397/1495243540_c40822592f.jpg)](http://www.flickr.com/photos/albill/1495243540/)
-_A Shrine in a Tree on Mt. Koya, Japan_
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/1495243540/"><img src="http://farm3.static.flickr.com/2397/1495243540_c40822592f.jpg"></a>
+<br><em>A Shrine in a Tree on Mt. Koya, Japan</em></p>
 
 
 One of things that I really appreciated in Tibetan Buddhism and which I appreciate in Japanese Buddhism moreso is the incorporation of the world around us, especially the landscape and life in it, into their beliefs. I am a child of the Pacific Northwest and my vision of nature is tall evergreen trees, ferns, moss, and fog and rain. To me, that is a peaceful and calm place and one outside the hustle and bustle that we create for ourselves as humans. I saw a lot of these sorts of places, usually with a shrine in them, while visiting Japan last year.

@@ -42,7 +42,8 @@ This method of spiritual exploration was taught by the sage Siddhartha Gautama (
 
 **The Four Noble Truths**
 
-[![noble200x314](http://pagandharma.org/wp-content/uploads/2012/12/noble200x314.gif)](http://pagandharma.org/2012/12/basic-buddhist-big-ideas-part-i-the-introduction/noble200x314/)The Buddha’s first revelation of these wisdom teachings is a description of the principal cause of human distress. In this opening exposition, the Buddha offered what is now referred to as his first teaching.
+<img src="/images/noble200x314.gif" align="right">
+The Buddha’s first revelation of these wisdom teachings is a description of the principal cause of human distress. In this opening exposition, the Buddha offered what is now referred to as his first teaching.
 
 The Buddha explained that life is bound to hurt as long as we go into it with a set of expectations and beliefs that do not match up with the workings of reality. The truth is that there are problems in life. Wanting something that cannot exist (like a pain-free existence) is a sure path to exasperation.
 
@@ -62,7 +63,8 @@ Let’s unpack this a little, because it’s important to understand for both Ka
 
 Not inescapable fate: what this means is that while you cannot change what has happened in the past, and neither can you change what is _right now_, you do have control over what happens _next_. Of course, your choices in the moment are going to be constrained by a number of patterns of wyrd already in place, including personality characteristics, social conditioning, past experiences, and so on. To the extent that your thoughts, words, and deeds are determined by these patterns, wyrd is shaping your life in the moment – and the thoughts, words, and deeds you undertake in the moment are woven into your wyrd and remanifest in future experiences. Wyrd/Karma are interactive.
 
-[![karma](http://pagandharma.org/wp-content/uploads/2012/12/karma.jpg)](http://pagandharma.org/2012/12/basic-buddhist-big-ideas-part-i-the-introduction/karma/)Not moralistic judgment: If a baby dies, or a city is wiped out in a flood, that’s wyrd, or karma. If a man is mugged, or a woman raped – that’s wyrd/karma. Often, statements like these generate outcries of “what did the baby/city/man/woman do to _deserve_ that?” The word “deserve” is the clue we need to see that there is a fundamental misunderstanding at play. “Deserve” implies a moral judgment, and some party responsible for meting out that judgment.
+<img src="/images/karma.jpg" align="right">
+Not moralistic judgment: If a baby dies, or a city is wiped out in a flood, that’s wyrd, or karma. If a man is mugged, or a woman raped – that’s wyrd/karma. Often, statements like these generate outcries of “what did the baby/city/man/woman do to _deserve_ that?” The word “deserve” is the clue we need to see that there is a fundamental misunderstanding at play. “Deserve” implies a moral judgment, and some party responsible for meting out that judgment.
 
 Now, don’t get me wrong – I’m not saying there aren’t beings that hand out justice… I’m saying that’s not what wyrd or karma does.
 
