@@ -1,0 +1,30 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+        
+# Setup
+title:               Pagan Dharma
+tagline:             'Putting the Pagan back into the Dharma'
+description:         "A blog of Pagan practitioners of the Dharma"
+url:                 http://pagandharma.org
+baseurl:             /
+avatar:				 images/pagan-dharma-smaller.png
+paginate:            5
+locale:         	 en_us
+
+# About/contact
+author:
+  name:              Pagan Dharma
+  email:             info@pagandharma.org
+fb_admins:      	 
+fb_appid:       	 
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
